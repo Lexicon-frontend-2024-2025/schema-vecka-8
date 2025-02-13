@@ -40,8 +40,8 @@ Samtliga finns under [Next.js Path](https://app.pluralsight.com/paths/skill/next
 ## Lektioner
 ##### Med tillhörande repon
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
-* **Måndag** - Gemensamt: Repetition på förra veckan med routing
-* **Tisdag** - Gemensamt: Routing, fortsättning
+* **Måndag** - Gemensamt: Repetition på förra veckan
+* **Tisdag** - Gemensamt: Dynamisk routing
 * **Onsdag** - Gemensamt: Tailwind och error handling
 * **Torsdag** - Gemensamt: Server actions
 * **Fredag** - Gemensamt: Code review
