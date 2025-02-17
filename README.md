@@ -10,7 +10,7 @@
 ## Material
 #### E-Learning:
 #### Utvalda för denna veckan:
-
+Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents) inkl Rendering and Data Fetching, Dynamic Routing och Deploying.
 #### Läsning
 
 #### Youtube
