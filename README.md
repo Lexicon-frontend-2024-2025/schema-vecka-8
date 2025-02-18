@@ -33,6 +33,6 @@ Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/cour
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **Måndag** - Gemensamt: Repetition på förra veckan
 * **Tisdag** - Gemensamt: Dynamisk routing
-* **Onsdag** - Gemensamt: ?
-* **Torsdag** - Gemensamt: ?
-* **Fredag** - Gemensamt: ?
+* **Onsdag** - Gemensamt: Bygga samma app (Pokemon) fast på nytt sätt med tailwind, shadcn och lucide
+* **Torsdag** - Gemensamt: Fortsättning från onsdagen
+* **Fredag** - Gemensamt: Morgonavstämning tillsammans, därefter eget arbete
