@@ -5,7 +5,8 @@
 
 ## Mål för veckan
 1. Dynamic routes i next.js
-2. ?
+2. Förståelse för client/server components
+3. Använda externa bibliotek i Next.js
 
 ## Material
 #### E-Learning:
